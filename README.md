@@ -20,6 +20,10 @@ The project used crack surface from https://www.kaggle.com/code/zeynel7/detectio
 ## Key Features
 ### Image Processing
 Images were resized and converted into grayscale with (100x100 pixels) to enhance the model performance.
+<div align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/fdef99a9-9910-48d8-ae71-b46875931be7" />
+</div>
+<div align="center"><b>Figure 1: </b>Samples of grayscale conversion</div>
+
 ### Model Development 
 The MLP model was trained with fixed epoch (100) and different configurations like neurons with and without regularization(dropout), learning rate, and batch size to optimize the model.
 ### Model Evaluation
@@ -30,11 +34,11 @@ The project includes multiple metrics like accuracy, precision, recall, f1-score
 #### - F1-Score: 96.32
 
 ## Result
-<div align="center"><img width="363" alt="image" src="https://github.com/user-attachments/assets/f1b04e25-e07e-4ce5-81e8-f1941df14f22" />
+<div align="center"><img width="300" alt="image" src="https://github.com/user-attachments/assets/f1b04e25-e07e-4ce5-81e8-f1941df14f22" />
 
 </div>
-<div align="center"><b>Figure 1: </b>ROC-Curve</div>
+<div align="center"><b>Figure 2: </b>ROC-Curve</div>
 <div align="center"><img width="400" alt="image" src="https://github.com/user-attachments/assets/161d38b0-e9ad-4491-957a-1c36d29eb5d0" />
 </div>
-<div align="center"><b>Figure 2: Confusion matrix</b> 
+<div align="center"><b>Figure 3: </b>Confusion matrix 
 </div>
