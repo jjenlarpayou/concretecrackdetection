@@ -1,4 +1,4 @@
-# concretecrackdetection
+# Concretecrackdetection
 ## Overview
 <p>This project aims to investigate and contrast the performance of Neural Network model like Multi-Layer Perceptrons (MLP)</p>
 
